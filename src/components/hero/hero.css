@@ -63,6 +63,13 @@
 	max-width: 80%;
 }
 
+.button {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	gap: 20px;
+}
+
 @media screen and (max-width: 768px) {
 	.hero {
 		padding: 12rem 0 5rem 0;
@@ -85,6 +92,13 @@
 	.hero .hero__text {
 		font-size: var(--text-x-large);
 		text-align: center;
+	}
+
+	.button {
+		display: flex;
+		flex-direction: row;
+		font-size: var(--text-small);
+		
 	}
 }
 
