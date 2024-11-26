@@ -21,8 +21,8 @@ export const portafolioData = [
 		title: 'Booki',
 		skills: ['HTML', 'CSS'],
 		descripcion:
-			"Créez la page d'accueil d'une agence de voyage avec HTML & CSS",
-		demoURL: '',
+			"Créez la page d'accueil d'une agence de voyage avec HTML & CSS. Réalisation d'une interface utilisateur responsive pour Booki, une plateforme de réservation. Ce projet, issu du parcours OpenClassrooms, m'a permis de maîtriser les bases du HTML5 et CSS3, tout en intégrant des bonnes pratiques de développement web et d'accessibilité. Résultat : une interface moderne et adaptée à tous les supports.",
+		demoURL: 'https://yuliyanib.github.io/Projet-2-OC/',
 		repoURL: 'https://github.com/YuliyaniB/Projet-2-OC',
 		anim: 'fade-right',
 	},
