@@ -54,7 +54,7 @@ export const portafolioData = [
 		skills: ['React', 'Sass'],
 		descripcion:
 			"Développement d'une application web pour Kasa, une plateforme de location. Ce projet OpenClassrooms m'a permis de consolider mes compétences en React, notamment avec la gestion des états, des composants dynamiques et la navigation. Le résultat : une interface intuitive, moderne et entièrement responsive pour une expérience utilisateur optimale.",
-		demoURL: '',
+		demoURL: 'https://projet-5-oc-mu.vercel.app/',
 		repoURL: 'https://github.com/YuliyaniB/Projet-5-OC',
 		anim: 'fade-up',
 		averageBrightness: 0.1,
@@ -85,16 +85,14 @@ export const portafolioData = [
 const skillIcons = {
 	JavaScript: 'skill-icons:javascript',
 	React: 'skill-icons:react-dark',
-	Astro: 'skill-icons:astro',
 	HTML: 'skill-icons:html',
 	CSS: 'skill-icons:css',
 	Sass: 'skill-icons:sass',
-	StyledComponents: 'skill-icons:styledcomponents',
-	NodeJS: 'skill-icons:nodejs',
+	NodeJS: 'skill-icons:nodejs-light',
 	Express: 'skill-icons:express',
 	MongoDB: 'skill-icons:mongodb',
-	Lighthouse: 'skill-icons:mysql',
-	Notion: 'skill-icons:Notion-Light'
+	Lighthouse: 'skill-icons:lighthouse-light',
+	Notion: 'skill-icons:notion-light',
 };
 
 /**
