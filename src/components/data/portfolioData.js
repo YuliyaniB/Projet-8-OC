@@ -24,7 +24,8 @@ export const portafolioData = [
 			"Créez la page d'accueil d'une agence de voyage avec HTML & CSS. Réalisation d'une interface utilisateur responsive pour Booki, une plateforme de réservation. Ce projet, issu du parcours OpenClassrooms, m'a permis de maîtriser les bases du HTML5 et CSS3, tout en intégrant des bonnes pratiques de développement web et d'accessibilité. Résultat : une interface moderne et adaptée à tous les supports.",
 		demoURL: 'https://yuliyanib.github.io/Projet-2-OC/',
 		repoURL: 'https://github.com/YuliyaniB/Projet-2-OC',
-		anim: 'fade-right',
+		anim: 'fade-up',
+		averageBrightness: 0.1,
 	},
 	{
 		imgSrc: '/img/sophiebluel.webp',
@@ -44,7 +45,8 @@ export const portafolioData = [
 		descripcion: "Analyse, correction et optimisation du site web de Nina Carducci, photographe professionnelle. Ce projet OpenClassrooms m'a permis de renforcer mes compétences en résolution de bugs, optimisation des performances et amélioration de l'accessibilité web. Résultat : un site fonctionnel, fluide et conforme aux standards modernes.",
 		demoURL: 'https://yuliyanib.github.io/Projet-4-OC/',
 		repoURL: 'https://github.com/YuliyaniB/Projet-4-OC',
-		anim: 'fade-left',
+		anim: 'fade-up',
+		averageBrightness: 0.1,
 	},
 	{
 		imgSrc: '/img/kasa.webp',
@@ -54,7 +56,8 @@ export const portafolioData = [
 			"Développement d'une application web pour Kasa, une plateforme de location. Ce projet OpenClassrooms m'a permis de consolider mes compétences en React, notamment avec la gestion des états, des composants dynamiques et la navigation. Le résultat : une interface intuitive, moderne et entièrement responsive pour une expérience utilisateur optimale.",
 		demoURL: '',
 		repoURL: 'https://github.com/YuliyaniB/Projet-5-OC',
-		anim: 'fade-left',
+		anim: 'fade-up',
+		averageBrightness: 0.1,
 	},
 	{
 		imgSrc: '/img/vieuxgrimoire.webp',
@@ -63,7 +66,8 @@ export const portafolioData = [
 		descripcion: "Développement d'une application web sécurisée pour gérer une bibliothèque personnelle. Ce projet OpenClassrooms m'a permis d'acquérir des compétences en Node.js, Express et MongoDB, notamment sur la création d'API RESTful et la gestion de l'authentification. Résultat : une application robuste et intuitive pour cataloguer et partager des livres.",
 		demoURL: '',
 		repoURL: 'https://github.com/YuliyaniB/Projet-6-OC',
-		anim: 'fade-left',
+		anim: 'fade-up',
+		averageBrightness: 0.1,
 	},
 	{
 		imgSrc: '/img/menumaker.webp',
@@ -73,7 +77,8 @@ export const portafolioData = [
 		demoURL:
 			'https://bejewled-aardvark-968.notion.site/128ecc2129e380e08956c73bb148ff49?v=128ecc2129e3817fa48b000cd87918c4',
 		repoURL: '',
-		anim: 'fade-right',
+		anim: 'fade-up',
+		averageBrightness: 0.1,
 	},
 ];
 

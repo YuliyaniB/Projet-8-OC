@@ -36,6 +36,7 @@ const socialLinks = [
         socialLinks.map((data) => (
             <a
                 href={data.href}
+				aria-label={data.ariaLabel}
                 target={data.title === "Mail" ? "_self" : "_blank"}
                 rel={data.title === "Mail" ? "" : "nofollow noreferrer noopener"}
             >
