@@ -1,8 +1,9 @@
 #skills {
 	display: flex;
+	flex-direction: row-reverse;
 	max-width: calc(var(--max-width) + 2.2rem);
 	padding: 1.1rem;
-	gap: 2.2rem;
+	gap: 6rem;
 	margin: 4rem auto;
 }
 
