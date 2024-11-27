@@ -5,27 +5,27 @@ const socialLinks = [
 		title: 'LinkedIn',
 		icon: 'simple-icons:linkedin',
 		href: 'https://www.linkedin.com/in/julien-brunel-26889b122/',
-		ariaLabel: 'Lien vers le profil LinkedIn de Julien Brunel',
+		
 
 	},
 	{
 		title: 'Github',
 		icon: 'mdi:github',
 		href: 'https://github.com/YuliyaniB',
-		ariaLabel: 'Lien vers le profil Github de Julien Brunel',
+		
 
 	},
 	{
 		title: 'Mail',
 		icon: 'fluent:mail-28-regular',
 		href: "mailto:julien.brunel.dev@gmail.com",
-		ariaLabel: "Lien vers l'adresse mail de Julien Brunel",
+		
 	},
 	{
 		title: 'CV',
 		icon: 'tabler:file-cv',
 		href: '../docs/cv_julien_brunel.pdf',
-		ariaLabel: 'Lien vers le CV de Julien Brunel',
+		
 
 	},
 ];
@@ -36,7 +36,7 @@ const socialLinks = [
         socialLinks.map((data) => (
             <a
                 href={data.href}
-				aria-label={data.ariaLabel}
+				
                 target={data.title === "Mail" ? "_self" : "_blank"}
                 rel={data.title === "Mail" ? "" : "nofollow noreferrer noopener"}
             >
